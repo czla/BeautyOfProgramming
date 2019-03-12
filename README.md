@@ -8,3 +8,4 @@
 ### 第二章 数字之谜——数字中的技巧  
   * 2.1 求二进制数中1的个数 （难度：**\*\*\***  代码：[2.1_BitCount.cpp](https://github.com/czla/BeautyOfProgramming/blob/master/2.1_BitCount.cpp))  
   * 2.2 不要被阶乘吓倒 （难度：**\*\*** 代码：[2.2_Factorial.cpp](https://github.com/czla/BeautyOfProgramming/blob/master/2.2_Factorial.cpp))  
+  * 2.7 最大公约数问题 （难度：**\*\*** 代码：[2.7_Gcd.cpp](https://github.com/czla/BeautyOfProgramming/blob/master/2.7_Gcd.cpp))  
